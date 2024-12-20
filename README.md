@@ -1,5 +1,5 @@
 
-# ![logo-text](https://github.com/sohomofficial/imaginify/assets/93909798/0fbe7ca7-676a-46b2-a25a-0aaa7cafff4d)
+# ![logo-text](https://github.com/sohomofficial/Pixel_Pro/assets/93909798/0fbe7ca7-676a-46b2-a25a-0aaa7cafff4d)
 A Software-as-a-Service app with AI features and payments & credits system built using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
 
 ## Features
